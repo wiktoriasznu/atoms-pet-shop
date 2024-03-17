@@ -273,7 +273,7 @@ button.btn-outline {
     color: var(--text-01);
 }
 
-.card-large.card-light a,
+.card-large.card-light a, 
 .card-large.card-light > ul {
     color: var(--light-01);
 }
