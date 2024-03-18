@@ -227,6 +227,7 @@ card-med:hover card-image{
   font-size: 28px;
   font-weight: 600;
   line-height: 1.5;
+  text-decoration: none;
 }
 
 .card-large > ul > li a {
@@ -271,11 +272,13 @@ button.btn-outline {
 .card-large.card-dark a,
 .card-large.card-dark > ul {
     color: var(--text-01);
+    list-style-type: none;
 }
 
 .card-large.card-light a, 
 .card-large.card-light > ul {
     color: var(--light-01);
+    list-style-type: none;
 }
 
 button {
@@ -555,11 +558,13 @@ footer ul li a{
     color: var(--light-01);
     text-decoration: none;
     font-size: 14px;
+    
 }
 
 footer ul li {
     color: var(--light-01);
     padding: 0;
+    list-style-type: none;
 }
 
 @media only screen and (max-width: 600px) {
