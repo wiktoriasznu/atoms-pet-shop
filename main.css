@@ -227,7 +227,6 @@ card-med:hover card-image{
   font-size: 28px;
   font-weight: 600;
   line-height: 1.5;
-  text-decoration: none;
 }
 
 .card-large > ul > li a {
